@@ -7,6 +7,6 @@ A simplified version of RISC-V decoder that interprets instructions of RISC-V sy
 
 ## 🌱 Result
 When the program is executed, the user can know what assembly code was included in the input file.<br><br>
-<img src="./results/result1.png" alt="result image 1" width="400"/> <br><br><br>
+<img src="./results/result1.png" alt="result image 1" width="380"/> <br><br><br>
 If the given binary data is uninterpretable, the program prints 'unknown instruction'.<br><br>
 <img src="./results/result2.png" alt="result image 1" width="400"/>
